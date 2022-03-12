@@ -1,0 +1,2 @@
+# freewifi
+wifi1
